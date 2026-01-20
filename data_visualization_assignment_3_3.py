@@ -371,7 +371,7 @@ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
 plt.title('Correlation Matrix Heatmap')
 plt.show()
 
-pip install streamlit
+#pip install streamlit
 
 import streamlit as st
 import pandas as pd
